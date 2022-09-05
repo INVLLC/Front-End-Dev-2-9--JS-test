@@ -1,15 +1,15 @@
 # Error that i am getting in the main.js
-Passed: getPrices method applies tax when taxBoolean parameter is true
-Passed: getPrices method does not apply tax when taxBoolean parameter is false
-FAILED Test Case: getPrices method logs expected error message when taxBoolean is not supplied
-Your Code Produced:
-Dish: Italian pasta Price: $11.46Dish: Rice with veggies Price: $10.38Dish: Chicken with potatoes Price: $18.66Dish: Vegetarian Pizza Price: $7.74Expected Output Is:
-You need to pass a boolean to the getPrices call!
-Passed: getDiscount method when tax is applied and guests less than 5
-Passed: getDiscount method when tax is applied and guests more than 5
-Passed: getDiscount method when tax is not applied and guests less than 5
-Passed: getDiscount method when tax is not applied and guests more than 5
-Passed: getDiscount method logs expected error message when guests count not in range
+>- Passed: getPrices method applies tax when taxBoolean parameter is true
+>- Passed: getPrices method does not apply tax when taxBoolean parameter is false
+>- FAILED Test Case: getPrices method logs expected error message when taxBoolean is not supplied
+>- Your Code Produced:
+>- Dish: Italian pasta Price: $11.46Dish: Rice with veggies Price: $10.38Dish: Chicken with potatoes >- Price: $18.66Dish: Vegetarian Pizza Price: $7.74Expected Output Is:
+>- You need to pass a boolean to the getPrices call!
+>- Passed: getDiscount method when tax is applied and guests less than 5
+>- Passed: getDiscount method when tax is applied and guests more than 5
+>- Passed: getDiscount method when tax is not applied and guests less than 5
+>- Passed: getDiscount method when tax is not applied and guests more than 5
+>- Passed: getDiscount method logs expected error message when guests count not in range
 
 # Lab Instructions: Little Lemon Receipt Maker
  
